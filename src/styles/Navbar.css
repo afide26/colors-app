@@ -50,3 +50,7 @@
 .rc-slider-rail {
   height: 4px;
 }
+
+.select-container {
+  justify-content: flex-end;
+}
